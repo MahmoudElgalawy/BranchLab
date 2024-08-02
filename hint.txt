@@ -1,0 +1,2 @@
+Hello this is the first line of hint file
+And this is the second one of int file, bye
